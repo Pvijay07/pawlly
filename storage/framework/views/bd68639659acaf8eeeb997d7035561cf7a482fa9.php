@@ -1,0 +1,2 @@
+<img src="<?php echo e(asset(setting('logo'))); ?>" class="img-fluid h-4 mb-4">
+<?php /**PATH /home/xhtmlreviews/public_html/fitinex.xhtmlreviews.com/resources/views/components/application-logo.blade.php ENDPATH**/ ?>
